@@ -10,8 +10,8 @@
 
 ## Preview
 
-<div aligne="center">
-	<img aligne="center" src="https://github.com/YisusDU/coddx_rock_paper_scissors_gui/blob/main/image/README/1769291746244.png" alt="Vista Juego piedra, papel o tijeras"/>
+<div align="center">
+	<img align="center" src="https://github.com/YisusDU/coddx_rock_paper_scissors_gui/blob/main/image/README/1769291746244.png" alt="Vista Juego piedra, papel o tijeras"/>
 </div>
 
 ## 📁 Overview
