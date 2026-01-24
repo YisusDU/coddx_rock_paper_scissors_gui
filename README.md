@@ -11,16 +11,15 @@
 ## Preview
 
 <div aligne="center">
-	<img src="" alt="" />
+	<img src="https://github.com/YisusDU/coddx_rock_paper_scissors_gui/blob/main/image/README/1769291746244.png" alt="Vista Juego piedra, papel o tijeras" />
 </div>
 
 ## 📁 Overview
 
 Este documento detalla la **arquitectura lógica y funcional** de **Coddx RPS**, una aplicación de escritorio que trasciende el simple juego para demostrar el manejo de estados y persistencia de datos local.
 
-El sistema permite a los usuarios:
+El sistema permite a los usuarios:**Interactuar** con una interfaz gráfica basada en eventos (Tkinter).
 
-* **Interactuar** con una interfaz gráfica basada en eventos (Tkinter).
 * **Competir** contra un oponente con lógica de selección pseudo-aleatoria.
 * **Persistencia de Datos:** Mantener estadísticas globales que sobreviven al cierre de la aplicación.
 
